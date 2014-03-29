@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ErrorDiffusionDithering", "ErrorDiffusionDithering\ErrorDiffusionDithering.vcxproj", "{CFF791C9-B0B0-4FA1-BA78-46719439326B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GaussianFiltering", "GaussianFiltering\GaussianFiltering.vcxproj", "{1FBF9E0C-5279-43DE-9866-67EFA6E061D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFF791C9-B0B0-4FA1-BA78-46719439326B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CFF791C9-B0B0-4FA1-BA78-46719439326B}.Debug|Win32.Build.0 = Debug|Win32
+		{CFF791C9-B0B0-4FA1-BA78-46719439326B}.Release|Win32.ActiveCfg = Release|Win32
+		{CFF791C9-B0B0-4FA1-BA78-46719439326B}.Release|Win32.Build.0 = Release|Win32
+		{1FBF9E0C-5279-43DE-9866-67EFA6E061D5}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1FBF9E0C-5279-43DE-9866-67EFA6E061D5}.Debug|Win32.Build.0 = Debug|Win32
+		{1FBF9E0C-5279-43DE-9866-67EFA6E061D5}.Release|Win32.ActiveCfg = Release|Win32
+		{1FBF9E0C-5279-43DE-9866-67EFA6E061D5}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
